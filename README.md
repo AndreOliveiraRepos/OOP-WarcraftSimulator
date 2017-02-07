@@ -5,11 +5,17 @@ Configuração
 ------------
 
 >**mkgame < linhas> < colunas>** Começar um novo jogo, ex: "mkgame 20 20"
+
 **pop < nome>** Cria a população < nome> sem edifícios nem unidades.
+
 **setf < oque> < linha> < coluna>** Coloca uma fonte de recursos na posição linha e coluna, oque = "min", "ped","flo" , minas, pedra e floresta
+
 **sete < nome> < oque> < linha> < coluna>** Coloca um edifício novo na posição linha e coluna, e pertencendo à população indicada em nome. oque = "quar" -> quartel, "est" -> estábulo, "quin" -> quinta
+
 **setu < nome> < oque> < linha> < coluna>** Acrescenta uma unidade na posição linha e coluna, pertencendo à população indicada em nome. oque = "camp" -> campones, "sold" -> soldado, "cav" -> cavaleiro, "cav" -> campones a cavalo
+
 **load < filename>** Lê comandos do ficheiro designado por filename
+
 **mostra < nome>** Mostra, na zona de informação do ecrã, uma listagem de todos os elementos da população identificada pelo nome.
 sair
 
