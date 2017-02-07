@@ -22,22 +22,37 @@ sair
 #Interacção
 
 >**sel < id>** Selecciona o edifício ou unidade com nome id.
+
 **scroll** muda para o modo “scroll”
+
 **next** Avança um instante na simulação.
+
 **next < n>** Simula a passagem de <n> instantes de tempo
 
 Comandos para as unidades e edifícios:
 --------------------------------------
 
 >**go < id> < delta_linha> < delta_coluna>**
+
 **goto < id> < linha> < coluna>**
+
 **mina < id> < idfonte>** Ordena à unidade id que vá obter recursos na fonte idfonte
+
 **ataca < id> < idvitima>** Ordena à unidade id que vá atacar a unidade ou edifício idvitima.
+
 **conserta < id> < ide>** Ordena à unidade com identificador id que conserte o edifício com identificador ide.
+
 **deambula < id>** Ordena à unidade com identificador id que deambule.
+
 **mke < id> < oque> < linha> < coluna>** Ordena à unidade id que faça um novo edifício na posição linha e coluna, de acordo com oque: cas → castelo, quar → quartel, est → estábulo, quin → quinta.
+
 **mku < oque>** Manda fazer uma nova unidade, de acordo com oque: camp → camponês, sold → soldado, cav → cavaleiro, cv → camponês a cavalo.
+
 #Comandos para os recursos:
+
 >**ouro < nome> < n>** A população nome recebe n unidades de ouro.
+
 **pedra < nome> < n>** A população nome recebe n unidades de pedra.
+
 **madeira < nome> < n>** A população nome recebe n unidades de madeira.
+
