@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Soldado">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIg4AAACAAQEAQCAAAAAAAAAACAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Unidade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cavaleiro">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIg4AAACAAQEAUCAAAAAAAAAAAAAAAgACAAAAAAAAA=</HashCode>
+      <FileName>Unidade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CamponesCavalo">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgIAgAAAAQEAQCAAAAAAAAAAAAAAAAACAAAAAAgMA=</HashCode>
+      <FileName>Unidade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Campones">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgIAAAIAAQkAQCAAAAAAAAAAAAAAAAACAAAAAAgEA=</HashCode>
+      <FileName>Unidade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

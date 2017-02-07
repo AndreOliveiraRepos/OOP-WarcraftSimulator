@@ -1,0 +1,10 @@
+mkgame 10 10
+pop a
+pop b
+sete a cas 1 1
+sete b cas 8 8
+setf min 5 5
+setu a camp 2 2
+setu b camp 3 3
+mina P01 R01
+mina P02 R01

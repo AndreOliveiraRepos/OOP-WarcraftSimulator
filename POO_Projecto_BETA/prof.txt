@@ -1,0 +1,16 @@
+mkgame 30 30
+pop minha
+pop outra
+setu minha sold 0 0
+setu minha sold 10 10
+setu minha sold 15 15
+setu minha sold 20 20
+sete minha cas 5 5
+sete outra cas 25 25
+setf min 0 4
+sel S01
+goto S01 6 6
+next
+setu minha camp 0 0
+setu outra sold 1 1
+ataca S01 S05

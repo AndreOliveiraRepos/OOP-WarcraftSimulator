@@ -1,0 +1,9 @@
+mkgame 30 30
+pop minha
+pop outra
+setu minha sold 0 0
+setu minha sold 10 10
+setu minha sold 15 15
+setu minha sold 20 20
+sete minha cas 5 5
+sete outra cas 25 25
